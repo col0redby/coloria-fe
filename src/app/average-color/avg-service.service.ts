@@ -8,7 +8,7 @@ import {Image} from './average-color.component';
 @Injectable({providedIn: 'root'})
 export class AvgColorsService {
 
-  private URL = 'http://localhost:8070/api/v1/test/results';
+  private URL = 'http://localhost:8071/api/v1/test/results';
 
   constructor(private http: HttpClient) {
   }
