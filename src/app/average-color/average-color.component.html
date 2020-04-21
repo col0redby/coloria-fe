@@ -1,0 +1,15 @@
+<h1> Colored...</h1>
+<div class="photo-layout" *ngFor="let image of (images$ | async)">
+  <div class="photo-layout__image" [ngStyle]="{'background-image': getUrl(image.original)}"></div>
+  <div class="photo-layout__colors">
+    <ng-container *ngFor="let colorAndVersion of image.versions">
+      <div class="color">
+        <div *ngFor="let color of colorAndVersion.colors" [ngStyle]="{backgroundColor: color.color, width: color.pct + '%'}"></div>
+      </div>
+      <div class="version">
+        <p>Version: {{colorAndVersion.version}}</p>
+        <p>Processing Time: {{colorAndVersion.processingTimeMillis}}</p>
+      </div>
+    </ng-container>
+  </div>
+</div>

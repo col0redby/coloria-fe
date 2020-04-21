@@ -1,0 +1,31 @@
+.photo-layout {
+  display: grid;
+  grid-template-areas: 'image colors';
+  grid-gap: 10px;
+  padding: 10px;
+
+  &__image {
+    grid-area: image;
+    background-position: center;
+    min-height: 50vh;
+    background-repeat: no-repeat;
+  }
+
+  &__colors {
+    grid-area: colors;
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    grid-gap: 10px;
+  }
+
+  .color {
+    display: flex;
+    border: 1px solid #212121;
+    width: 100%;
+    flex-direction: row;
+  }
+}
+
+h1 {
+  text-align: center;
+}
