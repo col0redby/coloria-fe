@@ -44,6 +44,6 @@ export class AverageColorComponent implements OnInit {
   }
 
   getUrl(path: string) {
-    return 'url(' + path + ')';
+    return 'url(file://' + path + ')';
   }
 }
