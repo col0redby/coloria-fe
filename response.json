@@ -1,0 +1,1674 @@
+[
+    {
+        "id": 13,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/im/streshin.jpg",
+        "versions": [
+            {
+                "id": 12,
+                "imageId": 13,
+                "version": "0.0.1",
+                "processingTimeMillis": 4813,
+                "colors": [
+                    {
+                        "id": 18,
+                        "imageVersionId": 12,
+                        "color": "#6c604b",
+                        "pct": 21.9432
+                    },
+                    {
+                        "id": 19,
+                        "imageVersionId": 12,
+                        "color": "#8d95a4",
+                        "pct": 16.3952
+                    },
+                    {
+                        "id": 20,
+                        "imageVersionId": 12,
+                        "color": "#817b70",
+                        "pct": 31.5386
+                    },
+                    {
+                        "id": 21,
+                        "imageVersionId": 12,
+                        "color": "#9ca5ba",
+                        "pct": 30.123
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/pau.jpg",
+        "versions": [
+            {
+                "id": 13,
+                "imageId": 14,
+                "version": "0.0.1",
+                "processingTimeMillis": 13252,
+                "colors": [
+                    {
+                        "id": 22,
+                        "imageVersionId": 13,
+                        "color": "#c09844",
+                        "pct": 64.7364
+                    },
+                    {
+                        "id": 23,
+                        "imageVersionId": 13,
+                        "color": "#9e792e",
+                        "pct": 27.7041
+                    },
+                    {
+                        "id": 24,
+                        "imageVersionId": 13,
+                        "color": "#cbd8d9",
+                        "pct": 0.942061
+                    },
+                    {
+                        "id": 25,
+                        "imageVersionId": 13,
+                        "color": "#d3b56e",
+                        "pct": 6.61748
+                    }
+                ]
+            },
+            {
+                "id": 30,
+                "imageId": 14,
+                "version": "0.0.2",
+                "processingTimeMillis": 19812,
+                "colors": [
+                    {
+                        "id": 90,
+                        "imageVersionId": 30,
+                        "color": "#c3a244",
+                        "pct": 27.5753
+                    },
+                    {
+                        "id": 91,
+                        "imageVersionId": 30,
+                        "color": "#a17c30",
+                        "pct": 14.1679
+                    },
+                    {
+                        "id": 92,
+                        "imageVersionId": 30,
+                        "color": "#b2c9d5",
+                        "pct": 0.599029
+                    },
+                    {
+                        "id": 93,
+                        "imageVersionId": 30,
+                        "color": "#c0ae86",
+                        "pct": 2.78175
+                    },
+                    {
+                        "id": 94,
+                        "imageVersionId": 30,
+                        "color": "#b88e3b",
+                        "pct": 27.3888
+                    },
+                    {
+                        "id": 95,
+                        "imageVersionId": 30,
+                        "color": "#896825",
+                        "pct": 7.06824
+                    },
+                    {
+                        "id": 96,
+                        "imageVersionId": 30,
+                        "color": "#d8b050",
+                        "pct": 20.0045
+                    },
+                    {
+                        "id": 97,
+                        "imageVersionId": 30,
+                        "color": "#f2eed6",
+                        "pct": 0.414523
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/img6.jpg",
+        "versions": [
+            {
+                "id": 14,
+                "imageId": 15,
+                "version": "0.0.1",
+                "processingTimeMillis": 10108,
+                "colors": [
+                    {
+                        "id": 26,
+                        "imageVersionId": 14,
+                        "color": "#292c24",
+                        "pct": 11.7236
+                    },
+                    {
+                        "id": 27,
+                        "imageVersionId": 14,
+                        "color": "#c5bbaf",
+                        "pct": 34.9277
+                    },
+                    {
+                        "id": 28,
+                        "imageVersionId": 14,
+                        "color": "#61798f",
+                        "pct": 21.4671
+                    },
+                    {
+                        "id": 29,
+                        "imageVersionId": 14,
+                        "color": "#d7d4c9",
+                        "pct": 31.8816
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "imageId": 15,
+                "version": "0.0.2",
+                "processingTimeMillis": 18789,
+                "colors": [
+                    {
+                        "id": 98,
+                        "imageVersionId": 31,
+                        "color": "#e2ded0",
+                        "pct": 15.3253
+                    },
+                    {
+                        "id": 99,
+                        "imageVersionId": 31,
+                        "color": "#3d3f37",
+                        "pct": 3.69591
+                    },
+                    {
+                        "id": 100,
+                        "imageVersionId": 31,
+                        "color": "#c7bba9",
+                        "pct": 16.9199
+                    },
+                    {
+                        "id": 101,
+                        "imageVersionId": 31,
+                        "color": "#22251d",
+                        "pct": 8.35964
+                    },
+                    {
+                        "id": 102,
+                        "imageVersionId": 31,
+                        "color": "#6a86a5",
+                        "pct": 9.08434
+                    },
+                    {
+                        "id": 103,
+                        "imageVersionId": 31,
+                        "color": "#546e7e",
+                        "pct": 10.9187
+                    },
+                    {
+                        "id": 104,
+                        "imageVersionId": 31,
+                        "color": "#cfcbbf",
+                        "pct": 29.5933
+                    },
+                    {
+                        "id": 105,
+                        "imageVersionId": 31,
+                        "color": "#a3a4a0",
+                        "pct": 6.1029
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/screen1.png",
+        "versions": [
+            {
+                "id": 15,
+                "imageId": 16,
+                "version": "0.0.1",
+                "processingTimeMillis": 2587,
+                "colors": [
+                    {
+                        "id": 30,
+                        "imageVersionId": 15,
+                        "color": "#3d4042",
+                        "pct": 22.5876
+                    },
+                    {
+                        "id": 31,
+                        "imageVersionId": 15,
+                        "color": "#fdfdfd",
+                        "pct": 22.8807
+                    },
+                    {
+                        "id": 32,
+                        "imageVersionId": 15,
+                        "color": "#282828",
+                        "pct": 53.195
+                    },
+                    {
+                        "id": 33,
+                        "imageVersionId": 15,
+                        "color": "#b68d76",
+                        "pct": 1.33661
+                    }
+                ]
+            },
+            {
+                "id": 32,
+                "imageId": 16,
+                "version": "0.0.2",
+                "processingTimeMillis": 3778,
+                "colors": [
+                    {
+                        "id": 106,
+                        "imageVersionId": 32,
+                        "color": "#282929",
+                        "pct": 50.1895
+                    },
+                    {
+                        "id": 107,
+                        "imageVersionId": 32,
+                        "color": "#ffffff",
+                        "pct": 15.6598
+                    },
+                    {
+                        "id": 108,
+                        "imageVersionId": 32,
+                        "color": "#3d4042",
+                        "pct": 22.5317
+                    },
+                    {
+                        "id": 109,
+                        "imageVersionId": 32,
+                        "color": "#db9e64",
+                        "pct": 0.33314
+                    },
+                    {
+                        "id": 110,
+                        "imageVersionId": 32,
+                        "color": "#8aa2ae",
+                        "pct": 0.75299
+                    },
+                    {
+                        "id": 111,
+                        "imageVersionId": 32,
+                        "color": "#dd5928",
+                        "pct": 0.362654
+                    },
+                    {
+                        "id": 112,
+                        "imageVersionId": 32,
+                        "color": "#1d1d1d",
+                        "pct": 3.00709
+                    },
+                    {
+                        "id": 113,
+                        "imageVersionId": 32,
+                        "color": "#f8fafa",
+                        "pct": 7.16319
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/lego.png",
+        "versions": [
+            {
+                "id": 16,
+                "imageId": 17,
+                "version": "0.0.1",
+                "processingTimeMillis": 104,
+                "colors": [
+                    {
+                        "id": 34,
+                        "imageVersionId": 16,
+                        "color": "#025b32",
+                        "pct": 25.5897
+                    },
+                    {
+                        "id": 35,
+                        "imageVersionId": 16,
+                        "color": "#b31b02",
+                        "pct": 38.1983
+                    },
+                    {
+                        "id": 36,
+                        "imageVersionId": 16,
+                        "color": "#d9a70a",
+                        "pct": 10.2264
+                    },
+                    {
+                        "id": 37,
+                        "imageVersionId": 16,
+                        "color": "#0247a7",
+                        "pct": 25.9856
+                    }
+                ]
+            },
+            {
+                "id": 33,
+                "imageId": 17,
+                "version": "0.0.2",
+                "processingTimeMillis": 165,
+                "colors": [
+                    {
+                        "id": 114,
+                        "imageVersionId": 33,
+                        "color": "#0a160f",
+                        "pct": 1.92143
+                    },
+                    {
+                        "id": 115,
+                        "imageVersionId": 33,
+                        "color": "#bc1d02",
+                        "pct": 30.6862
+                    },
+                    {
+                        "id": 116,
+                        "imageVersionId": 33,
+                        "color": "#024aad",
+                        "pct": 22.5409
+                    },
+                    {
+                        "id": 117,
+                        "imageVersionId": 33,
+                        "color": "#d9a70a",
+                        "pct": 10.209
+                    },
+                    {
+                        "id": 118,
+                        "imageVersionId": 33,
+                        "color": "#01692c",
+                        "pct": 19.3844
+                    },
+                    {
+                        "id": 119,
+                        "imageVersionId": 33,
+                        "color": "#911502",
+                        "pct": 7.46232
+                    },
+                    {
+                        "id": 120,
+                        "imageVersionId": 33,
+                        "color": "#00286e",
+                        "pct": 6.79098
+                    },
+                    {
+                        "id": 121,
+                        "imageVersionId": 33,
+                        "color": "#139f5c",
+                        "pct": 1.0047
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/med.jpg",
+        "versions": [
+            {
+                "id": 17,
+                "imageId": 18,
+                "version": "0.0.1",
+                "processingTimeMillis": 808,
+                "colors": [
+                    {
+                        "id": 38,
+                        "imageVersionId": 17,
+                        "color": "#c7a246",
+                        "pct": 63.8717
+                    },
+                    {
+                        "id": 39,
+                        "imageVersionId": 17,
+                        "color": "#8f6c28",
+                        "pct": 10.7972
+                    },
+                    {
+                        "id": 40,
+                        "imageVersionId": 17,
+                        "color": "#c4bb9d",
+                        "pct": 3.60377
+                    },
+                    {
+                        "id": 41,
+                        "imageVersionId": 17,
+                        "color": "#ab8534",
+                        "pct": 21.7273
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "imageId": 18,
+                "version": "0.0.2",
+                "processingTimeMillis": 1347,
+                "colors": [
+                    {
+                        "id": 122,
+                        "imageVersionId": 34,
+                        "color": "#e3ba59",
+                        "pct": 3.8523
+                    },
+                    {
+                        "id": 123,
+                        "imageVersionId": 34,
+                        "color": "#a78032",
+                        "pct": 16.6699
+                    },
+                    {
+                        "id": 124,
+                        "imageVersionId": 34,
+                        "color": "#ba943e",
+                        "pct": 33.231
+                    },
+                    {
+                        "id": 125,
+                        "imageVersionId": 34,
+                        "color": "#bfaf88",
+                        "pct": 2.75174
+                    },
+                    {
+                        "id": 126,
+                        "imageVersionId": 34,
+                        "color": "#cbd5d1",
+                        "pct": 0.986471
+                    },
+                    {
+                        "id": 127,
+                        "imageVersionId": 34,
+                        "color": "#caa546",
+                        "pct": 21.8816
+                    },
+                    {
+                        "id": 128,
+                        "imageVersionId": 34,
+                        "color": "#d5af51",
+                        "pct": 11.4643
+                    },
+                    {
+                        "id": 129,
+                        "imageVersionId": 34,
+                        "color": "#8c6a26",
+                        "pct": 9.16276
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/screen2.png",
+        "versions": [
+            {
+                "id": 18,
+                "imageId": 19,
+                "version": "0.0.1",
+                "processingTimeMillis": 2175,
+                "colors": [
+                    {
+                        "id": 42,
+                        "imageVersionId": 18,
+                        "color": "#2c2c2c",
+                        "pct": 67.4197
+                    },
+                    {
+                        "id": 43,
+                        "imageVersionId": 18,
+                        "color": "#949f9d",
+                        "pct": 2.14767
+                    },
+                    {
+                        "id": 44,
+                        "imageVersionId": 18,
+                        "color": "#3c3f41",
+                        "pct": 27.1666
+                    },
+                    {
+                        "id": 45,
+                        "imageVersionId": 18,
+                        "color": "#54554d",
+                        "pct": 3.26606
+                    }
+                ]
+            },
+            {
+                "id": 35,
+                "imageId": 19,
+                "version": "0.0.2",
+                "processingTimeMillis": 4335,
+                "colors": [
+                    {
+                        "id": 130,
+                        "imageVersionId": 35,
+                        "color": "#2c2c2c",
+                        "pct": 65.0365
+                    },
+                    {
+                        "id": 131,
+                        "imageVersionId": 35,
+                        "color": "#95a8ac",
+                        "pct": 1.21378
+                    },
+                    {
+                        "id": 132,
+                        "imageVersionId": 35,
+                        "color": "#3c3f41",
+                        "pct": 27.1549
+                    },
+                    {
+                        "id": 133,
+                        "imageVersionId": 35,
+                        "color": "#a57c50",
+                        "pct": 0.655382
+                    },
+                    {
+                        "id": 134,
+                        "imageVersionId": 35,
+                        "color": "#51748e",
+                        "pct": 0.62881
+                    },
+                    {
+                        "id": 135,
+                        "imageVersionId": 35,
+                        "color": "#e2ede6",
+                        "pct": 0.139805
+                    },
+                    {
+                        "id": 136,
+                        "imageVersionId": 35,
+                        "color": "#1d1d1d",
+                        "pct": 2.41536
+                    },
+                    {
+                        "id": 137,
+                        "imageVersionId": 35,
+                        "color": "#515249",
+                        "pct": 2.75555
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/small.jpg",
+        "versions": [
+            {
+                "id": 19,
+                "imageId": 20,
+                "version": "0.0.1",
+                "processingTimeMillis": 10,
+                "colors": [
+                    {
+                        "id": 46,
+                        "imageVersionId": 19,
+                        "color": "#c0a052",
+                        "pct": 23.5726
+                    },
+                    {
+                        "id": 47,
+                        "imageVersionId": 19,
+                        "color": "#947029",
+                        "pct": 13.7778
+                    },
+                    {
+                        "id": 48,
+                        "imageVersionId": 19,
+                        "color": "#d3ae51",
+                        "pct": 28.2906
+                    },
+                    {
+                        "id": 49,
+                        "imageVersionId": 19,
+                        "color": "#b48d39",
+                        "pct": 34.359
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "imageId": 20,
+                "version": "0.0.2",
+                "processingTimeMillis": 14,
+                "colors": [
+                    {
+                        "id": 138,
+                        "imageVersionId": 36,
+                        "color": "#b18a37",
+                        "pct": 22.906
+                    },
+                    {
+                        "id": 139,
+                        "imageVersionId": 36,
+                        "color": "#d3a34a",
+                        "pct": 4.35897
+                    },
+                    {
+                        "id": 140,
+                        "imageVersionId": 36,
+                        "color": "#957129",
+                        "pct": 14.5128
+                    },
+                    {
+                        "id": 141,
+                        "imageVersionId": 36,
+                        "color": "#b79c60",
+                        "pct": 4.32479
+                    },
+                    {
+                        "id": 142,
+                        "imageVersionId": 36,
+                        "color": "#c09a41",
+                        "pct": 25.1282
+                    },
+                    {
+                        "id": 143,
+                        "imageVersionId": 36,
+                        "color": "#c2af86",
+                        "pct": 4.25641
+                    },
+                    {
+                        "id": 144,
+                        "imageVersionId": 36,
+                        "color": "#dbb457",
+                        "pct": 9.38461
+                    },
+                    {
+                        "id": 145,
+                        "imageVersionId": 36,
+                        "color": "#cdab49",
+                        "pct": 15.1282
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/img2.jpg",
+        "versions": [
+            {
+                "id": 20,
+                "imageId": 21,
+                "version": "0.0.1",
+                "processingTimeMillis": 10062,
+                "colors": [
+                    {
+                        "id": 50,
+                        "imageVersionId": 20,
+                        "color": "#928a80",
+                        "pct": 38.0131
+                    },
+                    {
+                        "id": 51,
+                        "imageVersionId": 20,
+                        "color": "#cccfca",
+                        "pct": 14.831
+                    },
+                    {
+                        "id": 52,
+                        "imageVersionId": 20,
+                        "color": "#2f2722",
+                        "pct": 14.1004
+                    },
+                    {
+                        "id": 53,
+                        "imageVersionId": 20,
+                        "color": "#726659",
+                        "pct": 33.0555
+                    }
+                ]
+            },
+            {
+                "id": 37,
+                "imageId": 21,
+                "version": "0.0.2",
+                "processingTimeMillis": 17407,
+                "colors": [
+                    {
+                        "id": 146,
+                        "imageVersionId": 37,
+                        "color": "#958c82",
+                        "pct": 23.9816
+                    },
+                    {
+                        "id": 147,
+                        "imageVersionId": 37,
+                        "color": "#3d342f",
+                        "pct": 9.99374
+                    },
+                    {
+                        "id": 148,
+                        "imageVersionId": 37,
+                        "color": "#c5c8c3",
+                        "pct": 7.52481
+                    },
+                    {
+                        "id": 149,
+                        "imageVersionId": 37,
+                        "color": "#695c4f",
+                        "pct": 15.3558
+                    },
+                    {
+                        "id": 150,
+                        "imageVersionId": 37,
+                        "color": "#82786a",
+                        "pct": 27.0751
+                    },
+                    {
+                        "id": 151,
+                        "imageVersionId": 37,
+                        "color": "#e2e5e3",
+                        "pct": 5.06011
+                    },
+                    {
+                        "id": 152,
+                        "imageVersionId": 37,
+                        "color": "#1d1612",
+                        "pct": 5.62622
+                    },
+                    {
+                        "id": 153,
+                        "imageVersionId": 37,
+                        "color": "#abaaa2",
+                        "pct": 5.38267
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/pauBroken.jpg",
+        "versions": [
+            {
+                "id": 21,
+                "imageId": 22,
+                "version": "0.0.1",
+                "processingTimeMillis": 11172,
+                "colors": [
+                    {
+                        "id": 54,
+                        "imageVersionId": 21,
+                        "color": "#000000",
+                        "pct": 75.0003
+                    },
+                    {
+                        "id": 55,
+                        "imageVersionId": 21,
+                        "color": "#43c29d",
+                        "pct": 15.4422
+                    },
+                    {
+                        "id": 56,
+                        "imageVersionId": 21,
+                        "color": "#2e9e79",
+                        "pct": 6.6082
+                    },
+                    {
+                        "id": 57,
+                        "imageVersionId": 21,
+                        "color": "#69d7b8",
+                        "pct": 2.94934
+                    }
+                ]
+            },
+            {
+                "id": 38,
+                "imageId": 22,
+                "version": "0.0.2",
+                "processingTimeMillis": 19309,
+                "colors": [
+                    {
+                        "id": 154,
+                        "imageVersionId": 38,
+                        "color": "#000000",
+                        "pct": 75.0002
+                    },
+                    {
+                        "id": 155,
+                        "imageVersionId": 38,
+                        "color": "#36af88",
+                        "pct": 5.67228
+                    },
+                    {
+                        "id": 156,
+                        "imageVersionId": 38,
+                        "color": "#28926f",
+                        "pct": 3.42091
+                    },
+                    {
+                        "id": 157,
+                        "imageVersionId": 38,
+                        "color": "#b3d2cc",
+                        "pct": 0.378383
+                    },
+                    {
+                        "id": 158,
+                        "imageVersionId": 38,
+                        "color": "#76bca8",
+                        "pct": 0.821131
+                    },
+                    {
+                        "id": 159,
+                        "imageVersionId": 38,
+                        "color": "#49cea9",
+                        "pct": 5.23596
+                    },
+                    {
+                        "id": 160,
+                        "imageVersionId": 38,
+                        "color": "#41be99",
+                        "pct": 7.20809
+                    },
+                    {
+                        "id": 161,
+                        "imageVersionId": 38,
+                        "color": "#56dcb6",
+                        "pct": 2.26303
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/pauReverBGR.jpg",
+        "versions": [
+            {
+                "id": 22,
+                "imageId": 23,
+                "version": "0.0.1",
+                "processingTimeMillis": 11359,
+                "colors": [
+                    {
+                        "id": 58,
+                        "imageVersionId": 22,
+                        "color": "#3d90bb",
+                        "pct": 29.7778
+                    },
+                    {
+                        "id": 59,
+                        "imageVersionId": 22,
+                        "color": "#4faac9",
+                        "pct": 46.7699
+                    },
+                    {
+                        "id": 60,
+                        "imageVersionId": 22,
+                        "color": "#236282",
+                        "pct": 3.46163
+                    },
+                    {
+                        "id": 61,
+                        "imageVersionId": 22,
+                        "color": "#2f7b9f",
+                        "pct": 19.9907
+                    }
+                ]
+            },
+            {
+                "id": 39,
+                "imageId": 23,
+                "version": "0.0.2",
+                "processingTimeMillis": 27421,
+                "colors": [
+                    {
+                        "id": 162,
+                        "imageVersionId": 39,
+                        "color": "#3a8bb6",
+                        "pct": 24.4204
+                    },
+                    {
+                        "id": 163,
+                        "imageVersionId": 39,
+                        "color": "#649cb5",
+                        "pct": 2.74835
+                    },
+                    {
+                        "id": 164,
+                        "imageVersionId": 39,
+                        "color": "#d9ddd1",
+                        "pct": 0.838849
+                    },
+                    {
+                        "id": 165,
+                        "imageVersionId": 39,
+                        "color": "#256788",
+                        "pct": 6.68021
+                    },
+                    {
+                        "id": 166,
+                        "imageVersionId": 39,
+                        "color": "#4faed7",
+                        "pct": 22.4304
+                    },
+                    {
+                        "id": 167,
+                        "imageVersionId": 39,
+                        "color": "#2e7aa0",
+                        "pct": 12.4907
+                    },
+                    {
+                        "id": 168,
+                        "imageVersionId": 39,
+                        "color": "#42a0c1",
+                        "pct": 28.3414
+                    },
+                    {
+                        "id": 169,
+                        "imageVersionId": 39,
+                        "color": "#92b7c5",
+                        "pct": 2.04977
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/pauRevert.jpg",
+        "versions": [
+            {
+                "id": 23,
+                "imageId": 24,
+                "version": "0.0.1",
+                "processingTimeMillis": 12166,
+                "colors": [
+                    {
+                        "id": 62,
+                        "imageVersionId": 23,
+                        "color": "#bd8f3e",
+                        "pct": 49.2538
+                    },
+                    {
+                        "id": 63,
+                        "imageVersionId": 23,
+                        "color": "#96722a",
+                        "pct": 17.5962
+                    },
+                    {
+                        "id": 64,
+                        "imageVersionId": 23,
+                        "color": "#c4bb9d",
+                        "pct": 3.5837
+                    },
+                    {
+                        "id": 65,
+                        "imageVersionId": 23,
+                        "color": "#cfab4d",
+                        "pct": 29.5664
+                    }
+                ]
+            },
+            {
+                "id": 40,
+                "imageId": 24,
+                "version": "0.0.2",
+                "processingTimeMillis": 21117,
+                "colors": [
+                    {
+                        "id": 170,
+                        "imageVersionId": 40,
+                        "color": "#b49b63",
+                        "pct": 2.74657
+                    },
+                    {
+                        "id": 171,
+                        "imageVersionId": 40,
+                        "color": "#8f6c27",
+                        "pct": 11.034
+                    },
+                    {
+                        "id": 172,
+                        "imageVersionId": 40,
+                        "color": "#be983e",
+                        "pct": 30.4386
+                    },
+                    {
+                        "id": 173,
+                        "imageVersionId": 40,
+                        "color": "#c4b693",
+                        "pct": 2.0123
+                    },
+                    {
+                        "id": 174,
+                        "imageVersionId": 40,
+                        "color": "#cba647",
+                        "pct": 21.389
+                    },
+                    {
+                        "id": 175,
+                        "imageVersionId": 40,
+                        "color": "#dab354",
+                        "pct": 12.0425
+                    },
+                    {
+                        "id": 176,
+                        "imageVersionId": 40,
+                        "color": "#aa8434",
+                        "pct": 19.5296
+                    },
+                    {
+                        "id": 177,
+                        "imageVersionId": 40,
+                        "color": "#d2ded9",
+                        "pct": 0.80739
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/img1.jpg",
+        "versions": [
+            {
+                "id": 24,
+                "imageId": 25,
+                "version": "0.0.1",
+                "processingTimeMillis": 10101,
+                "colors": [
+                    {
+                        "id": 66,
+                        "imageVersionId": 24,
+                        "color": "#cac6c2",
+                        "pct": 58.818
+                    },
+                    {
+                        "id": 67,
+                        "imageVersionId": 24,
+                        "color": "#655141",
+                        "pct": 10.2397
+                    },
+                    {
+                        "id": 68,
+                        "imageVersionId": 24,
+                        "color": "#a39280",
+                        "pct": 25.6237
+                    },
+                    {
+                        "id": 69,
+                        "imageVersionId": 24,
+                        "color": "#191411",
+                        "pct": 5.31861
+                    }
+                ]
+            },
+            {
+                "id": 41,
+                "imageId": 25,
+                "version": "0.0.2",
+                "processingTimeMillis": 21647,
+                "colors": [
+                    {
+                        "id": 178,
+                        "imageVersionId": 41,
+                        "color": "#c5c2b8",
+                        "pct": 29.0871
+                    },
+                    {
+                        "id": 179,
+                        "imageVersionId": 41,
+                        "color": "#927a66",
+                        "pct": 7.54526
+                    },
+                    {
+                        "id": 180,
+                        "imageVersionId": 41,
+                        "color": "#16110f",
+                        "pct": 4.74963
+                    },
+                    {
+                        "id": 181,
+                        "imageVersionId": 41,
+                        "color": "#b4ab9e",
+                        "pct": 14.137
+                    },
+                    {
+                        "id": 182,
+                        "imageVersionId": 41,
+                        "color": "#76604e",
+                        "pct": 5.72869
+                    },
+                    {
+                        "id": 183,
+                        "imageVersionId": 41,
+                        "color": "#4c3b2d",
+                        "pct": 4.98739
+                    },
+                    {
+                        "id": 184,
+                        "imageVersionId": 41,
+                        "color": "#a49380",
+                        "pct": 10.3405
+                    },
+                    {
+                        "id": 185,
+                        "imageVersionId": 41,
+                        "color": "#d9dbd0",
+                        "pct": 23.4244
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/streshin.jpg",
+        "versions": [
+            {
+                "id": 25,
+                "imageId": 26,
+                "version": "0.0.1",
+                "processingTimeMillis": 4575,
+                "colors": [
+                    {
+                        "id": 70,
+                        "imageVersionId": 25,
+                        "color": "#8b909d",
+                        "pct": 15.9849
+                    },
+                    {
+                        "id": 71,
+                        "imageVersionId": 25,
+                        "color": "#6c604c",
+                        "pct": 22.647
+                    },
+                    {
+                        "id": 72,
+                        "imageVersionId": 25,
+                        "color": "#9ba5b9",
+                        "pct": 33.604
+                    },
+                    {
+                        "id": 73,
+                        "imageVersionId": 25,
+                        "color": "#817a6d",
+                        "pct": 27.7642
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "imageId": 26,
+                "version": "0.0.2",
+                "processingTimeMillis": 7348,
+                "colors": [
+                    {
+                        "id": 186,
+                        "imageVersionId": 42,
+                        "color": "#99a4b7",
+                        "pct": 20.6733
+                    },
+                    {
+                        "id": 187,
+                        "imageVersionId": 42,
+                        "color": "#5a503d",
+                        "pct": 5.49639
+                    },
+                    {
+                        "id": 188,
+                        "imageVersionId": 42,
+                        "color": "#837e74",
+                        "pct": 15.819
+                    },
+                    {
+                        "id": 189,
+                        "imageVersionId": 42,
+                        "color": "#888c96",
+                        "pct": 10.3176
+                    },
+                    {
+                        "id": 190,
+                        "imageVersionId": 42,
+                        "color": "#7c715e",
+                        "pct": 16.5533
+                    },
+                    {
+                        "id": 191,
+                        "imageVersionId": 42,
+                        "color": "#a3aec5",
+                        "pct": 7.34608
+                    },
+                    {
+                        "id": 192,
+                        "imageVersionId": 42,
+                        "color": "#6f634d",
+                        "pct": 12.1199
+                    },
+                    {
+                        "id": 193,
+                        "imageVersionId": 42,
+                        "color": "#919aab",
+                        "pct": 11.6745
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/Jira.png",
+        "versions": [
+            {
+                "id": 26,
+                "imageId": 27,
+                "version": "0.0.1",
+                "processingTimeMillis": 1665,
+                "colors": [
+                    {
+                        "id": 74,
+                        "imageVersionId": 26,
+                        "color": "#fcfcfc",
+                        "pct": 92.2189
+                    },
+                    {
+                        "id": 75,
+                        "imageVersionId": 26,
+                        "color": "#ba6e79",
+                        "pct": 2.48452
+                    },
+                    {
+                        "id": 76,
+                        "imageVersionId": 26,
+                        "color": "#40559e",
+                        "pct": 3.93434
+                    },
+                    {
+                        "id": 77,
+                        "imageVersionId": 26,
+                        "color": "#fc860b",
+                        "pct": 1.36219
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "imageId": 27,
+                "version": "0.0.2",
+                "processingTimeMillis": 2654,
+                "colors": [
+                    {
+                        "id": 194,
+                        "imageVersionId": 43,
+                        "color": "#fdfefd",
+                        "pct": 89.3176
+                    },
+                    {
+                        "id": 195,
+                        "imageVersionId": 43,
+                        "color": "#ab7c75",
+                        "pct": 1.50803
+                    },
+                    {
+                        "id": 196,
+                        "imageVersionId": 43,
+                        "color": "#428bd3",
+                        "pct": 1.5492
+                    },
+                    {
+                        "id": 197,
+                        "imageVersionId": 43,
+                        "color": "#423178",
+                        "pct": 2.54391
+                    },
+                    {
+                        "id": 198,
+                        "imageVersionId": 43,
+                        "color": "#c5c9d3",
+                        "pct": 3.23846
+                    },
+                    {
+                        "id": 199,
+                        "imageVersionId": 43,
+                        "color": "#ee4d13",
+                        "pct": 0.24334
+                    },
+                    {
+                        "id": 200,
+                        "imageVersionId": 43,
+                        "color": "#ff9008",
+                        "pct": 1.11732
+                    },
+                    {
+                        "id": 201,
+                        "imageVersionId": 43,
+                        "color": "#f7367a",
+                        "pct": 0.482091
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/img3.jpg",
+        "versions": [
+            {
+                "id": 27,
+                "imageId": 28,
+                "version": "0.0.1",
+                "processingTimeMillis": 12827,
+                "colors": [
+                    {
+                        "id": 78,
+                        "imageVersionId": 27,
+                        "color": "#d9dee4",
+                        "pct": 11.1775
+                    },
+                    {
+                        "id": 79,
+                        "imageVersionId": 27,
+                        "color": "#37322b",
+                        "pct": 50.2036
+                    },
+                    {
+                        "id": 80,
+                        "imageVersionId": 27,
+                        "color": "#6a6b67",
+                        "pct": 17.3879
+                    },
+                    {
+                        "id": 81,
+                        "imageVersionId": 27,
+                        "color": "#171511",
+                        "pct": 21.231
+                    }
+                ]
+            },
+            {
+                "id": 44,
+                "imageId": 28,
+                "version": "0.0.2",
+                "processingTimeMillis": 22112,
+                "colors": [
+                    {
+                        "id": 202,
+                        "imageVersionId": 44,
+                        "color": "#181612",
+                        "pct": 23.4176
+                    },
+                    {
+                        "id": 203,
+                        "imageVersionId": 44,
+                        "color": "#cbd0d5",
+                        "pct": 3.69592
+                    },
+                    {
+                        "id": 204,
+                        "imageVersionId": 44,
+                        "color": "#433e37",
+                        "pct": 17.2855
+                    },
+                    {
+                        "id": 205,
+                        "imageVersionId": 44,
+                        "color": "#6e706d",
+                        "pct": 6.81675
+                    },
+                    {
+                        "id": 206,
+                        "imageVersionId": 44,
+                        "color": "#959796",
+                        "pct": 3.83886
+                    },
+                    {
+                        "id": 207,
+                        "imageVersionId": 44,
+                        "color": "#322d26",
+                        "pct": 31.0374
+                    },
+                    {
+                        "id": 208,
+                        "imageVersionId": 44,
+                        "color": "#e6ebf2",
+                        "pct": 6.72096
+                    },
+                    {
+                        "id": 209,
+                        "imageVersionId": 44,
+                        "color": "#575651",
+                        "pct": 7.18707
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/img4.jpg",
+        "versions": [
+            {
+                "id": 28,
+                "imageId": 29,
+                "version": "0.0.1",
+                "processingTimeMillis": 12881,
+                "colors": [
+                    {
+                        "id": 82,
+                        "imageVersionId": 28,
+                        "color": "#514e4a",
+                        "pct": 66.1558
+                    },
+                    {
+                        "id": 83,
+                        "imageVersionId": 28,
+                        "color": "#b7bbbb",
+                        "pct": 6.39837
+                    },
+                    {
+                        "id": 84,
+                        "imageVersionId": 28,
+                        "color": "#7e7b75",
+                        "pct": 19.8212
+                    },
+                    {
+                        "id": 85,
+                        "imageVersionId": 28,
+                        "color": "#fcfdfe",
+                        "pct": 7.62466
+                    }
+                ]
+            },
+            {
+                "id": 45,
+                "imageId": 29,
+                "version": "0.0.2",
+                "processingTimeMillis": 20511,
+                "colors": [
+                    {
+                        "id": 210,
+                        "imageVersionId": 45,
+                        "color": "#46423c",
+                        "pct": 15.5384
+                    },
+                    {
+                        "id": 211,
+                        "imageVersionId": 45,
+                        "color": "#9fa2a1",
+                        "pct": 6.26969
+                    },
+                    {
+                        "id": 212,
+                        "imageVersionId": 45,
+                        "color": "#fcfdfe",
+                        "pct": 7.63072
+                    },
+                    {
+                        "id": 213,
+                        "imageVersionId": 45,
+                        "color": "#66625b",
+                        "pct": 25.2057
+                    },
+                    {
+                        "id": 214,
+                        "imageVersionId": 45,
+                        "color": "#7c7973",
+                        "pct": 12.3978
+                    },
+                    {
+                        "id": 215,
+                        "imageVersionId": 45,
+                        "color": "#c6caca",
+                        "pct": 3.32001
+                    },
+                    {
+                        "id": 216,
+                        "imageVersionId": 45,
+                        "color": "#2b2927",
+                        "pct": 5.28307
+                    },
+                    {
+                        "id": 217,
+                        "imageVersionId": 45,
+                        "color": "#57524b",
+                        "pct": 24.3546
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "title": "test_image",
+        "description": "test_description",
+        "original": "/home/nikitakharitonov/Projects/colored/coloria/images/img5.jpg",
+        "versions": [
+            {
+                "id": 29,
+                "imageId": 30,
+                "version": "0.0.1",
+                "processingTimeMillis": 10012,
+                "colors": [
+                    {
+                        "id": 86,
+                        "imageVersionId": 29,
+                        "color": "#3e3121",
+                        "pct": 47.0302
+                    },
+                    {
+                        "id": 87,
+                        "imageVersionId": 29,
+                        "color": "#c9d1dd",
+                        "pct": 14.5302
+                    },
+                    {
+                        "id": 88,
+                        "imageVersionId": 29,
+                        "color": "#665e48",
+                        "pct": 35.5624
+                    },
+                    {
+                        "id": 89,
+                        "imageVersionId": 29,
+                        "color": "#7e7f82",
+                        "pct": 2.87712
+                    }
+                ]
+            },
+            {
+                "id": 46,
+                "imageId": 30,
+                "version": "0.0.2",
+                "processingTimeMillis": 17338,
+                "colors": [
+                    {
+                        "id": 218,
+                        "imageVersionId": 46,
+                        "color": "#6b644d",
+                        "pct": 25.9253
+                    },
+                    {
+                        "id": 219,
+                        "imageVersionId": 46,
+                        "color": "#d7deeb",
+                        "pct": 6.87021
+                    },
+                    {
+                        "id": 220,
+                        "imageVersionId": 46,
+                        "color": "#443423",
+                        "pct": 37.056
+                    },
+                    {
+                        "id": 221,
+                        "imageVersionId": 46,
+                        "color": "#564c39",
+                        "pct": 13.5976
+                    },
+                    {
+                        "id": 222,
+                        "imageVersionId": 46,
+                        "color": "#0e0b09",
+                        "pct": 6.09957
+                    },
+                    {
+                        "id": 223,
+                        "imageVersionId": 46,
+                        "color": "#c4ccd7",
+                        "pct": 5.41057
+                    },
+                    {
+                        "id": 224,
+                        "imageVersionId": 46,
+                        "color": "#aab2bf",
+                        "pct": 2.75258
+                    },
+                    {
+                        "id": 225,
+                        "imageVersionId": 46,
+                        "color": "#797a79",
+                        "pct": 2.28809
+                    }
+                ]
+            }
+        ]
+    }
+]

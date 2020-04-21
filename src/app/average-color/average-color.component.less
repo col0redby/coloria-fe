@@ -6,9 +6,14 @@
 
   &__image {
     grid-area: image;
-    background-position: center;
-    min-height: 50vh;
-    background-repeat: no-repeat;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+
+    img {
+      max-height: 100%;
+      max-width: 100%;
+    }
   }
 
   &__colors {
@@ -28,4 +33,14 @@
 
 h1 {
   text-align: center;
+}
+
+.photo {
+  width: 400px;
+  height: 400px;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
 }

@@ -1,8 +1,9 @@
 import {Component, OnInit} from '@angular/core';
 
-import {Observable} from 'rxjs';
+import {Observable, of} from 'rxjs';
 
 import {AvgColorsService} from './avg-service.service';
+// import * as fromImages from '../../../response.json';
 
 interface ColorInfo {
   id: number;
@@ -41,9 +42,6 @@ export class AverageColorComponent implements OnInit {
 
   ngOnInit(): void {
     this.images$ = this.avgService.getImages();
-  }
-
-  getUrl(path: string) {
-    return 'url(file://' + path + ')';
+    // this.images$ = of(fromImages.default);
   }
 }
