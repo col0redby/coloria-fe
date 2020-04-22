@@ -1,7 +1,7 @@
-<h1> Colored...</h1>
+<h1>Coloria visualization tool</h1>
 <div class="photo-layout" *ngFor="let image of (images$ | async)">
   <div class="photo-layout__image">
-    <img [src]="image.original">
+    <img [src]="replaceImagePath(image.original)">
   </div>
   <div class="photo-layout__colors">
     <ng-container *ngFor="let colorAndVersion of image.versions">

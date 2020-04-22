@@ -1,16 +1,18 @@
 .photo-layout {
   display: grid;
   grid-template-areas: 'image colors';
+  grid-template-columns: 65% 35%;
+  grid-auto-rows: 50vh;
   grid-gap: 10px;
   padding: 10px;
 
   &__image {
     grid-area: image;
-    height: 50vh;
-    display: flex;
-    justify-content: center;
+    // height: 50vh;
+    text-align: center;
 
     img {
+      height: 100%;
       max-height: 100%;
       max-width: 100%;
     }
@@ -20,7 +22,7 @@
     grid-area: colors;
     display: grid;
     grid-template-columns: repeat(2, 50%);
-    grid-gap: 10px;
+    grid-row-gap: 10px;
   }
 
   .color {
@@ -28,6 +30,10 @@
     border: 1px solid #212121;
     width: 100%;
     flex-direction: row;
+  }
+
+  .version {
+    padding-left: 10px;
   }
 }
 
